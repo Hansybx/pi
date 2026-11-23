@@ -195,6 +195,10 @@ I regularly publish my own `pi-mono` work sessions here:
 
 - [badlogicgames/pi-mono on Hugging Face](https://huggingface.co/datasets/badlogicgames/pi-mono)
 
+## 中文文档
+
+本仓库包含官方文档与仓库级文档的简体中文译本，位于 [docs/zh](docs/zh/INDEX.md)：文档站的 42 篇文档、README、AGENTS.md、CONTRIBUTING.md、SECURITY.md。译文与原文的对应关系和校验方式见 [docs/zh/ABOUT.md](docs/zh/ABOUT.md)。
+
 ## License
 
 MIT
